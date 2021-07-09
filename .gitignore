@@ -1,2 +1,4 @@
 .github/**
 .DS_store
+**/__pycache__
+list/**
